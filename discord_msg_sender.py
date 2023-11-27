@@ -1,7 +1,7 @@
 import discord
 import asyncio
 
-token = "MTE3Nzk3OTc3NjU2NTI0ODA1MA.GD9MYk.y_6jmLQ8o4-xVOSKvcmI6nK9phRHApEy1TnqII"
+token = ""  //your token here
 
 data = None  # Initialize the global variable
 
